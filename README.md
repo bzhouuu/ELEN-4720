@@ -1,5 +1,6 @@
 # ELEN 4720
-Machine Learning for Signals, Information and Data by Professor John Paisley
+Machine Learning for Signals, Information and Data 
+Professor John Paisley
 Columbia University, Spring 2020
 
 HW3:
