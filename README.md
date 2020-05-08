@@ -1,5 +1,5 @@
 # Machine Learning
-This ia a ML course (Machine Learning taught by Professor John Paisley at Columbia University. What this repository contains are ML algorithms coded from scratch with numpy only, as part of the course requirements. Below are the details:
+This ia a ML course (Machine Learning for Singals, Information and Data) taught by Professor John Paisley at Columbia University. What this repository contains are ML algorithms coded from scratch with numpy in Python, as part of the course homeworks. Below are the details:
 
 HW1:
 1. Ridge regression (and p-th order)
