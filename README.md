@@ -1,9 +1,5 @@
-# ELEN 4720
-Machine Learning for Signals, Information and Data
-
-Professor John Paisley
-
-Columbia University, Spring 2020
+# Paisley ML @ Columbia
+This ia a ML course taught by Professor John Paisley at Columbia University. What this repository contains are ML algorithms coded from scratch with numpy only, as part of the course requirements. Below are the details:
 
 HW1:
 1. Ridge regression (and p-th order)
