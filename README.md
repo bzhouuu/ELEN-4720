@@ -8,7 +8,7 @@ This ia a ML course (Machine Learning for Singals, Information and Data) taught 
 
 `Unsupervised:`
 1. K-means [HW3]
-2. GMM and naive bayes [HW3]a
+2. GMM and naive bayes [HW3]
 3. Matrix factorization [HW3]
 4. Markov chains [HW4]
 5. Nonnegative matrix factorization [HW4]
