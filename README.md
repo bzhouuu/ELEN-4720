@@ -6,7 +6,7 @@ This ia a ML course (Machine Learning for Singals, Information and Data) taught 
 2. Bayes classifier and KNN [HW2]
 3. Gaussian process [HW2]
 
-Unsupervised:
+`Unsupervised:`
 1. K-means [HW3]
 2. GMM and naive bayes [HW3]a
 3. Matrix factorization [HW3]
